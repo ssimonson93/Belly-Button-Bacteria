@@ -1,1 +1,2 @@
-# Belly-Button-Bacteria
+# Overview of Project
+The purpose of this project was to create a webpage to display data gathered from researching bacteria found in various individuals’ navels.  Javascript was used to write functions that would access the JSON data file containing the bacteria information and display it in bar chart, bubble chart, and gauge chart formats.  An HTML file was then written to reference these functions and display them on a webpage.  Finally, this repository was deployed using Github pages, in order for the webpage to be viewed.  
